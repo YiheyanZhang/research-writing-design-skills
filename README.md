@@ -35,7 +35,7 @@ $research-writing-design 只写一句英文 Results。Dataset A 使用同一数�
 
 ## 在其他项目使用
 
-把 [完整技能目录](.agents/skills/research-writing-design/) 复制进目标项目的 `.agents/skills/`，确保入口位于目标项目的 `.agents/skills/research-writing-design/SKILL.md`，四份参考文件随目录一并复制。然后从目标项目打开 Codex，继续用 `$research-writing-design` 调用。本仓库是维护源，之后按需同步整个技能目录。
+把 [完整技能目录](.agents/skills/research-writing-design/) 复制进目标项目的 `.agents/skills/`，确保入口位于目标项目的 `.agents/skills/research-writing-design/SKILL.md`，参考文件随目录一并复制。然后从目标项目打开 Codex，继续用 `$research-writing-design` 调用。本仓库是维护源，之后按需同步整个技能目录。
 
 如果 Codex 里找不到该 Skill，先核对当前项目目录和 `SKILL.md` 的路径。路径正确时，重新打开项目或重启 Codex。[Codex Skills 文档](https://learn.chatgpt.com/docs/build-skills)
 
